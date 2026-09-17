@@ -13,6 +13,8 @@ Free portable batch file renaming tool for Windows. Find & replace, add prefix/s
 - **Portable** — no install, no admin rights required
 - 100% free, no ads, no data collection
 
+![RenameForge screenshot](screenshot_renameforge.jpg)
+
 ## System Requirements
 
 Windows 10 or Windows 11 (64-bit). No .NET or Visual C++ Redistributable needed.
