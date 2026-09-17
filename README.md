@@ -17,6 +17,9 @@ Free portable batch file renaming tool for Windows. Find & replace, add prefix/s
 
 Windows 10 or Windows 11 (64-bit). No .NET or Visual C++ Redistributable needed.
 
+## Download
+https://github.com/snagfiles/RenameForge/releases/download/rename/renameforge.zip
+
 ## Installation
 
 1. Download the ZIP
@@ -24,7 +27,6 @@ Windows 10 or Windows 11 (64-bit). No .NET or Visual C++ Redistributable needed.
 3. Run `RenameForge.exe` — ready to use instantly, nothing else to install
 
 ## License
-
 RenameForge is free to use. See LICENSE.txt for the full terms.
 
 ---
